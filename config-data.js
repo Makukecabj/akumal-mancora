@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951978540556",
-    "phone": "+54951978540556",
+    "whatsapp": "https://wa.me/51978540556",
+    "phone": "+51978540556",
     "email": ""
   },
   "social": {
@@ -356,7 +356,7 @@ window.__CONFIG = {
         "name": "Akumal Mancora",
         "description": "Akumal Mancora: pileta, parrilla, WiFi y la mejor ubicación en Perú.",
         "url": "",
-        "telephone": "+54951978540556",
+        "telephone": "+51978540556",
         "email": "",
         "image": "",
         "sameAs": [
